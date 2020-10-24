@@ -1,3 +1,6 @@
+### Nama  : Akifa Nabil Ufairah
+### NIM   : 13519179
+
 ## Introduction to TensorFlow
 Machine Learning merupakan salah satu disiplin ilmu yang kompleks. Namun dengan hadirnya TensorFlow, implementasi dari model machine learning dapat menjadi jauh lebih sederhana dibandingkan seharusnya.  TensorFlow merupakan open source software library yang telah banyak sekali digunakan sebagai machine learning platform berskala besar. Produk ini merupakan salah satu produk Google Developer yang pada awalnya digunakan untuk tujuan internal, seperti meningkatkan kualitas google search engine, membuat fitur rekomendasi untuk pengguna, filter email spam, dan sebagainya. TensorFlow resmi menjadi sebuah platform open source pada tahun 2015 yang hingga kini telah membantu banyak peneliti, praktisi, maupun pengguna baru untuk pemecahanan masalah terkait machine learning. Backend dari TensorFlow ditulis dengan menggunakan bahasa C++ untuk meningkatkan performanya. Namun, API telah tersedia untuk berbagai bahasa lainnya seperti Python, Java, Haskell, Go, JavaScript, Swift dan masih banyak lagi. Selain itu, TensorFlow juga telah diadaptasi untuk berjalan di berbagai platform. Selain Linux, macOS, dan Windows, kini TensorFlow juga telah dapat digunakan di iOS, Android, dan Raspberry Pi.
   
